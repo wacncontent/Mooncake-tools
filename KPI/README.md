@@ -2,14 +2,14 @@
 
 ## 1. Tools
 
-Add these tools folder path to the system environment path so that you could use it where, they are:
+>**Tips**: Add these tools folder path to the system environment path so that you could use it anywhere.
 
 #### run.sh
-    - Usage: cd 815/articles/ && run.sh
-    - Result: three files, they are
-    	- ***KPI.csv***: fileName, ServiceName, WacnDate
-    	- ***error.txt***: Files don't contain ***ms.service*** nor ***wacn.date***, you should find their service or date and add them to KPI.csv.
-    	- ***file.txt***: file list in articles/ folder.
+   - Usage: cd 815/articles/ && run.sh
+   - Result: three files, they are
+    - ***KPI.csv***: Format: FileName, ServiceName, wacnDate
+    - ***error.txt***: Files don't contain ***ms.service*** nor ***wacn.date***, you should find their service or date and add them to KPI.csv.
+    - ***file.txt***: file list in articles/ folder.
 	    
 
 ## 2. Steps

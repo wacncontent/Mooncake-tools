@@ -10,4 +10,6 @@ This repo contains some tools that used in daily work, they are:
 
 Each folder contains detailed README.md.
 
+> Note: run `dos2unix file-list.txt` before every command since the ending character in windows and linux are not the same and will cause different result.
+
 Thanks!
