@@ -1,0 +1,20 @@
+c:\users\jierong.fareast\documents\visual studio 2013\Projects\GithubComparer\GithubComparer\bin\Debug\GithubComparer.exe.config
+c:\users\jierong.fareast\documents\visual studio 2013\Projects\GithubComparer\GithubComparer\bin\Debug\GithubComparer.exe
+c:\users\jierong.fareast\documents\visual studio 2013\Projects\GithubComparer\GithubComparer\bin\Debug\GithubComparer.pdb
+c:\users\jierong.fareast\documents\visual studio 2013\Projects\GithubComparer\GithubComparer\obj\Debug\GithubComparer.Properties.Resources.resources
+c:\users\jierong.fareast\documents\visual studio 2013\Projects\GithubComparer\GithubComparer\obj\Debug\GithubComparer.csproj.GenerateResource.Cache
+c:\users\jierong.fareast\documents\visual studio 2013\Projects\GithubComparer\GithubComparer\obj\Debug\GithubComparer.exe
+c:\users\jierong.fareast\documents\visual studio 2013\Projects\GithubComparer\GithubComparer\obj\Debug\GithubComparer.pdb
+c:\users\jierong.fareast\documents\visual studio 2013\Projects\GithubComparer\GithubComparer\obj\Debug\GithubComparer.Form1.resources
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\bin\Debug\ignore.json
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\bin\Debug\GithubComparer.exe.config
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\bin\Debug\GithubComparer.exe
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\bin\Debug\GithubComparer.pdb
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\obj\Debug\GithubComparer.csprojResolveAssemblyReference.cache
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\obj\Debug\GithubComparer.Form1.resources
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\obj\Debug\GithubComparer.Properties.Resources.resources
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\obj\Debug\GithubComparer.csproj.GenerateResource.Cache
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\obj\Debug\GithubComparer.exe
+C:\Users\v-welian\Desktop\GithubComparer_src\GithubComparer\GithubComparer\obj\Debug\GithubComparer.pdb

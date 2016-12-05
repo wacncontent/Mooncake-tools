@@ -1,0 +1,34 @@
+﻿{
+  "wacn": {
+    "directory": [
+      ".git",
+      "develop",
+      "downloads",
+      "includes",
+      "offers",
+      "support",
+      "what-is-new",
+      "media"
+    ],
+    "file": [
+      "documentation.md",
+      "downloads.md",
+      "README.md"
+    ]
+  },
+
+  "acom": {
+    "directory": [
+      ".git",
+      "contributor-guide",
+      "includes",
+      "markdown templates",
+      "media"
+    ],
+    "file": [
+      "CONTRIBUTING.md",
+      "license.md",
+      "README.md"
+    ]
+  }
+}
